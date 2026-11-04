@@ -1,4 +1,4 @@
-# ☁️ AWS Cloud Infrastructure Engineering — Assignments
+# ☁️ AWS Cloud Infrastructure Engineering--Assignments
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws&logoColor=white)
 ![Infrastructure](https://img.shields.io/badge-Infrastructure-Engineering-blue)
@@ -133,3 +133,14 @@ Through these assignments, I aim to develop the skills required to design, build
 ⭐ **Research. Analyze. Architect. Implement. Automate. Secure.**
 
 *Building practical cloud engineering skills, one challenging AWS assignment at a time.*
+
+---
+
+## 👨‍💻 Author
+
+**Tanveer Rabbani**  
+B.Tech – Information Technology  
+Cloud & DevOps Enthusiast
+
+- LinkedIn: [Tanveer Rabbani](https://www.linkedin.com/in/tanveer-rabbani-a-870729362/)
+- GitHub: [@tanveerrabbani5](https://github.com/tanveerrabbani5)
