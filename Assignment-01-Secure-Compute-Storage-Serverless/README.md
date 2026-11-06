@@ -17,12 +17,13 @@
 
 </div>
 
----
 
-##❯❯❯❯Forward --> Linkdin-Post
+<div align="center">
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" />Linkdin-Post: https://lnkd.in/p/gTii-57f
 
-**Linkdin-Post:** https://lnkd.in/p/gTii-57f
 ---
+</div>
 
 ## 1. Project Overview
 
