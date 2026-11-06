@@ -20,7 +20,7 @@
 
 <div align="center">
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" />Linkdin-Post: https://lnkd.in/p/gTii-57f
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" />LINKDIN-POST: [VIEW-POST👀](https://lnkd.in/p/gTii-57f)
 
 ---
 </div>
