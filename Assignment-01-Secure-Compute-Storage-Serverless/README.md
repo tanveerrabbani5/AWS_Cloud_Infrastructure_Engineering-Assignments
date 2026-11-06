@@ -54,9 +54,7 @@ The complete assignment documentation is available below.
 
 ### 📄 Assignment 01 — Documentation
 
-[**View Assignment PDF**](docs/Assignment-01-Documentation.pdf)
-
-[**Download Assignment PDF**](docs/Assignment-01-Documentation.pdf)
+[**View Assignment PDF👀**](docs/Assignment-01-Documentation.pdf)
 
 </div>
 
