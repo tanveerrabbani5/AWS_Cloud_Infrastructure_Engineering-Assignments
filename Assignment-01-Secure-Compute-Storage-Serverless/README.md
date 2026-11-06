@@ -19,6 +19,11 @@
 
 ---
 
+##❯❯❯❯Forward --> Linkdin-Post
+
+**Linkdin-Post:** https://lnkd.in/p/gTii-57f
+---
+
 ## 1. Project Overview
 
 A media streaming enterprise is modernizing its ingestion pipeline.
