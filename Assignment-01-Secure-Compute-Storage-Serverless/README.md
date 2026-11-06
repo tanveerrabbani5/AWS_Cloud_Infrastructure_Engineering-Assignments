@@ -40,7 +40,7 @@ The following architecture illustrates the three major AWS implementations: Secu
 
 <div align="center">
 
-![AWS Assignment 01 Architecture](docs/architecture-diagram.png)
+![AWS Assignment 01 Architecture](docs/asgn-01-architecture-diagram.png)
 
 **Figure 1: AWS Secure Compute, Storage & Serverless Architecture**
 
